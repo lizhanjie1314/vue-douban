@@ -1,5 +1,4 @@
 # vue-douban
-
 > 豆vue-douban
 
 ## Features
@@ -137,3 +136,5 @@ For detailed explanation, checkout the [douban api](https://developers.douban.co
 └── static
     └── logo.png
 ```
+
+基于vue仿豆瓣
