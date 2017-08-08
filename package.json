@@ -1,9 +1,9 @@
 {
-  "name": "douban",
+  "name": "vue-douban",
   "version": "1.0.0",
-  "description": "豆瓣",
-  "author": "jeneser",
-  "private": false,
+  "description": "豆瓣vue-douban",
+  "author": "lizhanjie1314 <1017986845@qq.com>",
+  "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",

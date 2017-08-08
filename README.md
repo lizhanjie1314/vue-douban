@@ -1,20 +1,6 @@
-# Douban
+# vue-douban
 
-> Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + vue-resource
-
-## Preview
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_home.png" >
-    <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_movie.png" >
-    <br>
-     <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_detial.png" >
-    <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_search.png" >
-    <br><br>
-    <strong>......</strong>
-    <br>
-	 <strong><a href="https://jeneser.github.io/douban/">Live Demo</a></strong>
-</p>
+> 豆vue-douban
 
 ## Features
 
@@ -44,7 +30,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8086
 npm run dev
 
 # build for production with minification
@@ -151,7 +137,3 @@ For detailed explanation, checkout the [douban api](https://developers.douban.co
 └── static
     └── logo.png
 ```
-
-## License
-
-[MIT](https://github.com/jeneser/douban/blob/master/LICENSE) Copyright (c) 2017 Jeneser
